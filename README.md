@@ -1,4 +1,6 @@
-# lhmont.github.io
+# Journalist
 
 
-This is a page
+Get in touch: luiz@berkeley.edu
+
+## Repos: 
